@@ -29,7 +29,7 @@ Trabalho com suporte técnico, redes e infraestrutura na **Multcabos** e estou e
 - **Infraestrutura e suporte:** suporte técnico ao usuário · redes de computadores · servidores · e-mail corporativo
 - **Desenvolvimento:** PHP · JavaScript · TypeScript · HTML · CSS · Next.js · React
 - **Dados e ferramentas:** Supabase · PostgreSQL/SQL · Git · GitHub · GitHub Actions · Vercel
-- **Estudando agora:** Go
+- **Estudando agora:** Go, Terminal Linux.
 
 ## Contato
 
