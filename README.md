@@ -6,7 +6,6 @@ Londrina (PR) · Análise e Desenvolvimento de Sistemas (Universidade Positivo)
 
 Trabalho com suporte técnico, redes e infraestrutura na **Multcabos** e estou em transição para o desenvolvimento web. No dia a dia, atendo usuários, configuro equipamentos e rede, apoio rotinas de servidores e administro e-mails corporativos. Também desenvolvi e publiquei, com apoio de IA, dois sites em produção para a empresa.
 
-Sou cofundador da **MGZ Creator**, onde crio sites e landing pages para negócios, e tenho a certificação **VIGI Certified Security Administrator (VCSA)**.
 
 ## Projetos em produção
 
